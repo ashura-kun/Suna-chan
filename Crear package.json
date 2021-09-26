@@ -1,0 +1,12 @@
+{
+  "nombre":  "suna",
+  "versión":  "0.0.0",
+  "descripción":  "",
+  "principal":  "suna.js",
+  "guiones": {
+  "inicio":  "suna.js" 
+  },
+  "dependencias": {
+  "@adiwajshing/baileys":  "^3.4.1" 
+  }
+}
